@@ -1,8 +1,6 @@
 # 💫 About Me:
 - 🧑‍🎓 Student  
-- ⚡ C++  
-- 🛠️ C  
-- 🌐 JavaScript  
+- ❤️ C++     
 - 🐍 Python  
 
 
